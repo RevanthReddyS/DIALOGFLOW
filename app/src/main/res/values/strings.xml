@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogFlow</string>
+    <string name="textview">TextView</string>
+    <string name="speak">SPEAK</string>
+</resources>
